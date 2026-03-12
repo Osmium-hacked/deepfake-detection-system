@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log
+
+# Dataset
+data/
+dataset/
+frames/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
